@@ -16,5 +16,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/shiven1703/freecodecomap-backendapi"
-	}
+	},
+	"license": "MIT"
 }
